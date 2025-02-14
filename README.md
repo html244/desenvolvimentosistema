@@ -4,7 +4,7 @@
 aula de configuração de ambiente para o javascript
 
 
-## Autores
+# Autores
 
 - [@bolsonaro22](https://www.github.com/bolsonaro22)
 
